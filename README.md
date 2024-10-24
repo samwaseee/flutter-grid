@@ -8,8 +8,7 @@ Welcome to the **Online Soft Sell** dashboard application! This admin interface 
 - **Interactive Grid Layout**: Displays different sections of the admin panel with hover effects and clickable items.
 
 ## Screenshots
-![Screenshot](https://github.com/user-attachments/assets/03a15aad-f2e5-45d3-ae7a-3fc1d15b0874)
-
+![Screenshot](https://github.com/user-attachments/assets/1785f8f8-1bee-49a5-8fca-ac010d8d3abb)
 
 ## Installation
 Clone the repository and install the dependencies:
