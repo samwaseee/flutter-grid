@@ -15,7 +15,7 @@ Welcome to the **Online Soft Sell** dashboard application! This admin interface 
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/samwaseee/flutter-grid
 cd your-repository
 flutter pub get
 ```
